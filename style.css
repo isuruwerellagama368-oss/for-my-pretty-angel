@@ -56,3 +56,11 @@ em{font-weight:400;color:var(--rose)}
 .music-toggle:hover{background:#eee7df;color:#111}
 .music-toggle span{margin-left:5px}
 .music-toggle.playing{border-color:#80666b;box-shadow:0 0 18px rgba(201,168,170,.12)}
+
+.timeline small {
+  display: block;
+  margin-top: 0.45rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  opacity: 0.72;
+}
